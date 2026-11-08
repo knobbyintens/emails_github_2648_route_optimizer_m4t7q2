@@ -1,2 +1,26 @@
-# emails_github_2648_route_optimizer_m4t7q2
-Companion repository for the Adaptive Route Optimizer blueprint (implementation not yet released)
+# Adaptive Route Optimizer
+
+## Repository Status
+
+**🚧 To be released**
+
+This repository will contain the reference implementation for the "Adaptive
+Route Optimizer" integration blueprint. The implementation is not available
+yet.
+
+## Coming soon
+
+- Live traffic and weather condition normaliser
+- Incremental re-planning solver
+- Service-window and driver-hours constraint model
+- Benchmark notebooks and evaluation harness
+- Deployment manifests for the dispatch service
+
+## Blueprint
+
+- **Title**: Adaptive Route Optimizer
+- **Category**: integration-blueprint
+
+## Contact
+
+For questions about the blueprint, contact the Integration Enablement Team.
